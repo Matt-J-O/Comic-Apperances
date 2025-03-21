@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Comic-Apperances/static/css/main.6758c14e.css",
+    "main.js": "/Comic-Apperances/static/js/main.dfadd748.js",
+    "static/js/453.16919491.chunk.js": "/Comic-Apperances/static/js/453.16919491.chunk.js",
+    "static/media/logo.png": "/Comic-Apperances/static/media/logo.c1f501ea1777f9a61383.png",
+    "index.html": "/Comic-Apperances/index.html",
+    "main.6758c14e.css.map": "/Comic-Apperances/static/css/main.6758c14e.css.map",
+    "main.dfadd748.js.map": "/Comic-Apperances/static/js/main.dfadd748.js.map",
+    "453.16919491.chunk.js.map": "/Comic-Apperances/static/js/453.16919491.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6758c14e.css",
+    "static/js/main.dfadd748.js"
+  ]
+}
